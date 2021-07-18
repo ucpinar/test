@@ -9,7 +9,7 @@ namespace test
             Console.WriteLine("isminizi girin");
              string name = Console.ReadLine();
 
-             Console.WriteLine("merhaba " + name );
+             Console.WriteLine("merhaba  dünya" + name );
             Console.ReadKey();
             
         }
